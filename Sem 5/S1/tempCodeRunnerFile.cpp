@@ -1,2 +1,0 @@
-enteros.elimInicio();
-    data();

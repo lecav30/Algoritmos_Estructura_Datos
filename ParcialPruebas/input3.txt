@@ -1,0 +1,14 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    auto l1 = [](int a) {
+        if (a > 0) {
+            cout << ":v";
+        } else {
+            cout << ":0";
+        }
+    };
+    a(10);
+}
+

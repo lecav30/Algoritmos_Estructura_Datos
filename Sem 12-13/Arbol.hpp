@@ -1,3 +1,8 @@
+/*
+  * Parte de este código fue realizado por el profesor Cueva Chavez, Walter.
+  * Docente del curso de Algoritmos y Estructura de Datos de la UPC (Universidad Peruana de Ciencias Aplicadas)
+  */
+
 #ifndef __ARBOLB_HPP__
 #define __ARBOLB_HPP__
 
